@@ -1,6 +1,6 @@
 ## Course App based on Signals
 
-![Video Preview](assets/images/1.gif)
+![Video Preview](/src/assets/imgs/1.gif)
 
 # Installation pre-requisites
 
